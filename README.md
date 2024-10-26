@@ -7,4 +7,4 @@ We will be applying Random Hill Climbing, Simulated Annealing, and Genetic Algor
 - k-Color
 
 ## Problem Set Visualizations
-![image](https://github.com/user-attachments/assets/ed033efb-9a04-4ca9-bebe-7a5b2571921d)
+![image](https://github.com/user-attachments/assets/a4837317-6f49-41e1-9470-3b543a400010)
