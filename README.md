@@ -3,5 +3,5 @@ Assessment of optimization methods that rely on randomization rather than gradie
 
 ## Problem Set
 We will be applying Random Hill Climbing, Simulated Annealing, and Genetic Algorithm to optimize the following problems and then assessing both performance and cost efficiency.
-- N Queens
+- N-Queens
 - k-Color
