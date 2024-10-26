@@ -7,5 +7,6 @@ We will be applying RHC, Simulated Annealing, and Genetic Algorithm to optimize 
 - k-Color
 
 ## Problem Set Visualization
-![image](https://github.com/user-attachments/assets/ceee8408-6114-46ca-8e0b-aafa9abf3460)
-![image](https://github.com/user-attachments/assets/f9c9f920-d33e-4936-a433-21d54d01090f)
+
+
+![image](https://github.com/user-attachments/assets/d1812c6a-3907-4f17-abf3-ad39f6b33e89)
