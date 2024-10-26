@@ -6,4 +6,5 @@ We will be applying Random Hill Climbing, Simulated Annealing, and Genetic Algor
 - N Queens
 - k-Color
 
-![image](https://github.com/user-attachments/assets/a4837317-6f49-41e1-9470-3b543a400010)
+
+![image](https://github.com/user-attachments/assets/c292deaf-6269-48fc-ad42-7cce97cefcea)
