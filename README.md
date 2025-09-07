@@ -1,5 +1,5 @@
 ## Summary
-Assessment of optimization algorithms that rely on randomization rather than gradient descent.
+Evaluation of optimization algorithms that rely on randomization rather than gradient descent.
 
 ## Problem Set
 We will be applying Random Hill Climbing, Simulated Annealing, and Genetic Algorithm to optimize the following problems and then assessing both performance and cost efficiency.
